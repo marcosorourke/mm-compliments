@@ -1,17 +1,12 @@
 {
   "anytime": ["This is my file!"],
   "morning": [
-    "Good morning!",
-    "Who needs coffee when you have your smile?",
-    "Yes, it's morning again."
+    "TEST morning affirmation."
   ],
   "afternoon": [
-    "Hitting your stride!",
-    "You are making a difference!",
-    "You're more fun than bubble wrap!"
+    "TEST afternoon affirmation"
   ],
   "evening": [
-    "Good evening.",
     "It. Is. Later. Than. You. Think."
   ]
 }
