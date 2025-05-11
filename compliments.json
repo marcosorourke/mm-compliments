@@ -15,7 +15,7 @@
     "You are making a difference.",
     "The day was better for your efforts."
   ]
-  "20-25 23 * * *": [
+  "* 23 * * *": [
     "Happy Hour!", "Its a Party"
   ]
 }
