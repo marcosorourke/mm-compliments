@@ -1,9 +1,8 @@
 {
   "anytime": ["This is my file!"],
   "morning": [
-    "Good morning, sunshine!",
-    "Who needs coffee when you have your smile?",
-    "Go get 'em, Tiger!"
+    "Good morning!",
+    "Who needs coffee when you have your smile?"
   ],
   "afternoon": [
     "Hitting your stride!",
@@ -11,9 +10,7 @@
     "You're more fun than bubble wrap!"
   ],
   "evening": [
-    "You made someone smile today, I know it.",
-    "You are making a difference.",
-    "The day was better for your efforts.",
+    "Good evening.",
     "It. Is. Later. Than. You. Think."
   ]
 }
