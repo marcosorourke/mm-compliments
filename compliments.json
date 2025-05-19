@@ -1,7 +1,9 @@
 {
-  "anytime": ["New file 5/18 19:48"],
+  "anytime": ["New file 5/19 02:00"],
   "morning": [
-    "TEST morning affirmation."
+    "TEST morning affirmation.",
+    "This is a morning thingy",
+    "More morning things"
   ],
   "afternoon": [
     "TEST afternoon affirmation"
