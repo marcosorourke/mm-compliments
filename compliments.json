@@ -1,5 +1,5 @@
 {
-  "anytime": ["This is my file!"],
+  "anytime": ["This is my file?"],
   "morning": [
     "TEST morning affirmation."
   ],
@@ -7,6 +7,6 @@
     "TEST afternoon affirmation"
   ],
   "evening": [
-    "It. Is. Later. Than. You. Think."
+    "Things for the evening."
   ]
 }
